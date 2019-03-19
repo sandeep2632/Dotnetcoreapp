@@ -744,11 +744,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sandeepsingh02\\Documents\\Visual Studio 2017\\Projects\\CoreConsoleApp\\CoreConsoleApp\\CoreConsoleApp.csproj",
+      "projectUniqueName": "C:\\Users\\sandeepsingh02\\Documents\\Visual Studio 2017\\Projects\\CoreConsoleApp\\CoreConsoleApp.csproj",
       "projectName": "CoreConsoleApp",
-      "projectPath": "C:\\Users\\sandeepsingh02\\Documents\\Visual Studio 2017\\Projects\\CoreConsoleApp\\CoreConsoleApp\\CoreConsoleApp.csproj",
+      "projectPath": "C:\\Users\\sandeepsingh02\\Documents\\Visual Studio 2017\\Projects\\CoreConsoleApp\\CoreConsoleApp.csproj",
       "packagesPath": "C:\\Users\\sandeepsingh02\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sandeepsingh02\\Documents\\Visual Studio 2017\\Projects\\CoreConsoleApp\\CoreConsoleApp\\obj\\",
+      "outputPath": "C:\\Users\\sandeepsingh02\\Documents\\Visual Studio 2017\\Projects\\CoreConsoleApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

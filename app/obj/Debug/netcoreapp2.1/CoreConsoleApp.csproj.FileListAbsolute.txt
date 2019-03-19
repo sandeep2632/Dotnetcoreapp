@@ -9,3 +9,13 @@ C:\Users\sandeepsingh02\Documents\Visual Studio 2017\Projects\CoreConsoleApp\Cor
 C:\Users\sandeepsingh02\Documents\Visual Studio 2017\Projects\CoreConsoleApp\CoreConsoleApp\obj\Debug\netcoreapp2.1\CoreConsoleApp.dll
 C:\Users\sandeepsingh02\Documents\Visual Studio 2017\Projects\CoreConsoleApp\CoreConsoleApp\obj\Debug\netcoreapp2.1\CoreConsoleApp.pdb
 C:\Users\sandeepsingh02\Documents\Visual Studio 2017\Projects\CoreConsoleApp\CoreConsoleApp\obj\Debug\netcoreapp2.1\CoreConsoleApp.csprojAssemblyReference.cache
+C:\Users\sandeepsingh02\Documents\Visual Studio 2017\Projects\CoreConsoleApp\bin\Debug\netcoreapp2.1\CoreConsoleApp.deps.json
+C:\Users\sandeepsingh02\Documents\Visual Studio 2017\Projects\CoreConsoleApp\bin\Debug\netcoreapp2.1\CoreConsoleApp.runtimeconfig.json
+C:\Users\sandeepsingh02\Documents\Visual Studio 2017\Projects\CoreConsoleApp\bin\Debug\netcoreapp2.1\CoreConsoleApp.runtimeconfig.dev.json
+C:\Users\sandeepsingh02\Documents\Visual Studio 2017\Projects\CoreConsoleApp\bin\Debug\netcoreapp2.1\CoreConsoleApp.dll
+C:\Users\sandeepsingh02\Documents\Visual Studio 2017\Projects\CoreConsoleApp\bin\Debug\netcoreapp2.1\CoreConsoleApp.pdb
+C:\Users\sandeepsingh02\Documents\Visual Studio 2017\Projects\CoreConsoleApp\obj\Debug\netcoreapp2.1\CoreConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\sandeepsingh02\Documents\Visual Studio 2017\Projects\CoreConsoleApp\obj\Debug\netcoreapp2.1\CoreConsoleApp.AssemblyInfoInputs.cache
+C:\Users\sandeepsingh02\Documents\Visual Studio 2017\Projects\CoreConsoleApp\obj\Debug\netcoreapp2.1\CoreConsoleApp.AssemblyInfo.cs
+C:\Users\sandeepsingh02\Documents\Visual Studio 2017\Projects\CoreConsoleApp\obj\Debug\netcoreapp2.1\CoreConsoleApp.dll
+C:\Users\sandeepsingh02\Documents\Visual Studio 2017\Projects\CoreConsoleApp\obj\Debug\netcoreapp2.1\CoreConsoleApp.pdb
